@@ -1,0 +1,28 @@
+h1 {
+    font-size: 3em;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1.5em;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    font-size: 1.5em;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  #result {
+    font-size: 2em;
+    text-align: center;
+  }
+  
